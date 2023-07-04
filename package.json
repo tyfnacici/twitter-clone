@@ -1,7 +1,7 @@
 {
   "name": "mern-blog",
   "version": "1.0.0",
-  "description": "A blog website built using MERN stack by me.",
+  "description": "Twitter clone built with MERN stack",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
